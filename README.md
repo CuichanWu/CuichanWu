@@ -1,6 +1,6 @@
 **Hi, this is Cuichan's brief introduction**
-_I am seeking a co-op in 2023 fall and full-time job in 2024 in the United States.
-_
+* I am seeking a co-op in 2023 fall and full-time job in 2024 in the United States.
+
 # Education
 * **Northeastern University**
   *  Master of Science in Computer Science
