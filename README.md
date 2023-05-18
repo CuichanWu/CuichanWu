@@ -12,10 +12,7 @@
   * May 2021
   * San Francisco, CA
 
-* **Laney College**
-  * Associate of Science in Business Administration
-  * May 2019
-  * Oakland, CA
+
 
 # Project
 * [ShipShare (website): A website that lets buyers experience Hassle-Free International Shopping. (React, NodeJS, Express, MongoDB, Material UI)](https://github.com/CuichanWu/web-dev-shipshare)
