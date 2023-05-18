@@ -5,7 +5,7 @@ I am seeking a co-op in 2023 fall and full-time job in 2024 in the United States
 * **Northeastern University**
   *  Master of Science in Computer Science
   *  Expected graduate in 2024
-  *  Silicon Valley Campust at San Jose, CA
+  *  Silicon Valley Campus at San Jose, CA
 
 * **San Francisco State University**
   * Bachelor of Science in Business Administration: Concentration in Marketing
