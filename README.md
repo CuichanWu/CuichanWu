@@ -1,4 +1,4 @@
-**Hi, this is Cuichan's brief introduction**
+**Hi, this is my brief introduction**
 * I am seeking a co-op in 2023 fall and full-time job in 2024 in the United States.
 
 # Education
