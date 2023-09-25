@@ -19,5 +19,5 @@
 * [ShipShare (mobile app): A React Native mobile app that lets buyers experience Hassle-Free International Shopping. (MongoDB)](https://github.com/CuichanWu/ShipShare-mobile-App)
 * [FindMeow: A React Native mobile app that supports catteries to sell and purchasers to find and buy kittens. (Firebase)](https://github.com/CuichanWu/MobileAppDev-FindMeow)
 * [MyFridge: A fridge inventory application that supports stock and expiration date tracking and smart recipe generation. (Java)](https://github.com/CuichanWu/5004-InventoryManagement)
-* [MISS: An iOS application named MISS that has a weather and chat function.](https://github.com/CuichanWu/MISS-iOS-app)
+* [MISS: An iOS application named MISS that has a weather and chat function. (Swift, Cocoapod, Firebase)](https://github.com/CuichanWu/MISS-iOS-app)
 
