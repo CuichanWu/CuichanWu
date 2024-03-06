@@ -1,10 +1,10 @@
 **Hi, this is my brief introduction**
-* I am seeking a co-op/intern in 2024 Spring and full-time job in 2024 in the United States.
+* I am seeking a co-op/intern in 2024 Summer and a full-time job in 2024 in the United States.
 
 # Education
 * **Northeastern University**
   *  Master of Science in Computer Science
-  *  Expected graduate in 2024
+  *  Expected graduate in December 2024
   *  Silicon Valley Campus at San Jose, CA
 
 * **San Francisco State University**
