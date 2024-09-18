@@ -1,5 +1,5 @@
 **Hi, this is my brief introduction**
-* I am seeking a co-op/intern in 2024 Summer and a full-time job in 2024 in the United States.
+* I am seeking a full-time job in December 2024 in the United States.
 
 # Education
 * **Northeastern University**
