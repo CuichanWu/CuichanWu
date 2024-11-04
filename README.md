@@ -5,7 +5,7 @@
 * **Northeastern University**
   *  Master of Science in Computer Science
   *  Expected graduate in December 2024
-  *  Silicon Valley Campus at San Jose, CA
+  *  Silicon Valley Campus in San Jose, CA
 
 * **San Francisco State University**
   * Bachelor of Science in Business Administration: Concentration in Marketing
