@@ -4,7 +4,7 @@
 # Education
 * **Northeastern University**
   *  Master of Science in Computer Science
-  *  Expected graduate in December 2024
+  *  December 2024
   *  Silicon Valley Campus in San Jose, CA
 
 * **San Francisco State University**
