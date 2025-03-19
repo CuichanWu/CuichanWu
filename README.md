@@ -1,5 +1,5 @@
 **Hi, this is my brief introduction**
-* I am seeking a full-time job in December 2024 in the United States.
+* I am seeking a full-time job in the United States.
 
 # Education
 * **Northeastern University**
